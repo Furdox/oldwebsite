@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 <channel>
-<title>Furdox's RSS feed</title>
+<title>Furdox's RSS Feed</title>
 <link>http://furdox.tk/website/cdn/furdoxrss.xml</link>
 <description>Welcome to my first RSS feed! TBH, idk why I made this.</description>
 
