@@ -19,3 +19,15 @@ font-family: Comic Sans MS, sans-serif;
 color: #ffffff;
 font-size: 40;
 }
+
+a.button {
+  background-color: #000000;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: 2px solid #ffffff
+}
