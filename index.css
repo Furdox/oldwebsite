@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+h1.double {border-style: double;}
+   
+#rcorners1 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  padding: 20px;
+  width: 300px;
+  height:33px;
+  text-align: center;
+  display: flex;
+  margin: auto;
+  }
+  h1 {
+  color: green;
+  text-border: 2px 2px 4px #000000;
+    font-family: 'Ubuntu Mono';
+}
+  h2 {
+    color:darkblue;
+  }
+body {
+  font-family: 'Ubuntu', monospace;
+  text-align: center;
+}
+  #sname {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: blue;
+}
+#sname a {
+  font-weight: bold;
+  font-size: 4em;
+  transition: all 500ms;
+}
+.thxfurdox {
+	background-color: #00f;
+	color: #0f0;
+	border-radius: 10px;
+	font-weight: bold;
+	font-family: Rubik, "Comic Sans MS", Ubuntu, Open Sans, Impact, sans-serif;
+	padding: 20px;
+	width: 550px;
+	margin: auto;
+	font-size: 20px;
+}
+.thxfurdoxlink {
+	color: #0ff;
+}
+.thxfurdoxlink:hover {
+	text-decoration: none;
+}
+#sname a:hover {
+  font-size: 76px;
+  font-size-adjust: 20px;
+}
+  
+  
+   #sname1 {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+#sname1 a {
+  font-weight: bold;
+  font-size: 1em;
+  transition: all 500ms;
+}
+#sname1 a:hover {
+  font-size: 25px;
+  font-size-adjust: 10px;
+}
+.title1 {
+	color: blue;
+}
