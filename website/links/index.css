@@ -41,7 +41,7 @@ body {
 	background-image: url(/website/cdn/sar_bg_notext.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: right bottom;
+	background-position: right center;
 	background-attachment: fixed;
 	font-family: Rubik Bold, Comic Sans MS;
 	-webkit-text-stroke: 2px #00f;
