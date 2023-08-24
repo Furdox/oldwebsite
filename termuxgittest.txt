@@ -1,0 +1,2 @@
+nano on termux
+testing out git on termux!!!
