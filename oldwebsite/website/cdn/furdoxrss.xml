@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Furdox's RSS Feed</title>
+<link>http://furdox.tk/website/cdn/furdoxrss.xml</link>
+<description>Welcome to my first RSS feed! TBH, idk why I made this.</description>
+
+<pubDate>Thu, 16 Feb 2023 22:46:31 +0000</pubDate>
+
+<image>
+<link>https://furdox.tk/website/</link>
+<url>https://furdox.tk/website/cdn/sar_bg_notext.png</url>
+<title>https://furdox.tk</title>
+</image>
+
+<item>
+<title>I MADE AN RSS FEED BABY!!!</title>
+<link>http://furdox.tk</link>
+<guid>http://rss.furdox.tk/rssitem/1</guid>
+<description>Why am I doing this... So yeah, now I have this thingy. I used guides online and the POWER OF CTRL+C CTRL+V to assemble this RSS feed. Don't expect much, just go on my Twitter.</description>
+<media:content url="http://furdox.tk/website/cdn/commonpng.png" medium="image"/>
+<pubDate>Thu, 16 Feb 2023 22:46:31 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
