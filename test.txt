@@ -1,2 +1,0 @@
- trying to do stuff with terminal git and gh so I can work on website locally again
- yay, it works :3
