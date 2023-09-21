@@ -35,7 +35,7 @@ h3 {
 }
 body {
 background-color: #003300;
-	/*background-image: url(/website/cdn/sar_bg_notext.png);*/
+	background-image: url(/website/cdn/sar_bg_notext.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: right center;
