@@ -1,6 +1,6 @@
 @font-face {
 font-family: Rubik Bold;
-	src: url(/website/cdn/RubikBold.ttf);
+	src: url(/oldwebsite/website/cdn/RubikBold.ttf);
 }
 a:link {
 	-webkit-text-stroke: #0000ff;
@@ -38,7 +38,7 @@ p {
 }
 body {
 	background-color: #003300;
-	background-image: url(/website/cdn/sar_bg_notext.png);
+	background-image: url(/oldwebsite/website/cdn/sar_bg_notext.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: right center;
