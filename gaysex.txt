@@ -1,0 +1,1719 @@
+commit 55a52a55e852a1d41e9157fa50fe9d5febae3940
+Author: Furdox on Arch Gaming <nt879879@gmail.com>
+Date:   Sun Oct 29 00:04:25 2023 -0400
+
+    wowie zowie
+
+commit b405c2ddbd03ea5ed71766afbd96d2d480ed04d8
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Oct 24 14:35:52 2023 -0400
+
+    absoluely insane screenshot
+
+commit 75948524ace4818fbc009fa67598cd062ddfe877
+Author: Furdox on Arch Gaming <nt879879@gmail.com>
+Date:   Mon Oct 23 19:29:40 2023 -0400
+
+    :sussywussy:
+
+commit eaf1e39fe23fcf91eb98f2194b727451362e776f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Oct 12 15:20:24 2023 -0400
+
+    Add files via upload
+
+commit 7abedaab85ec178a05daac42c8e5fbe5dde93f05
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Oct 12 15:19:29 2023 -0400
+
+    Add files via upload
+
+commit b3caeb764763e9d99efc685ec04c49784cd990eb
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Sep 25 08:58:04 2023 -0400
+
+    Add files via upload
+
+commit 9ad6e11c464d9fc5e30aa1ef4134f0c1687b2e39
+Merge: 82de411 3a5b981
+Author: Furdox on Mint <nt879879@gmail.com>
+Date:   Mon Sep 25 06:42:55 2023 -0400
+
+    Merge branch 'main' of https://github.com/Furdox/furdox.github.io
+
+commit 82de411077f7459244deca332d34e53082bffc73
+Author: Furdox on Mint <nt879879@gmail.com>
+Date:   Mon Sep 25 06:41:50 2023 -0400
+
+    updated tetr.io config
+
+commit 3a5b981880e4e9d6aee7d12d4778cc167cb7aead
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Sep 20 22:41:22 2023 -0400
+
+    changed misleading text, index.html said 404 when it's a 200.
+
+commit d7eeeab8626c4cafe1f834fc64b08d0429c4367f
+Author: Furdox on Mint <nt879879@gmail.com>
+Date:   Wed Sep 20 22:39:09 2023 -0400
+
+    whoops I had completely forgotten to change link refs in the css for old website, they were still pointing at /website
+
+commit 95001dfe473d2743077e6b0f8bcb1400e8fbc8e3
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Sep 20 22:19:20 2023 -0400
+
+    owo
+
+commit de4757fa7c297ab5d46f1a582dc89f2962107c5d
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Sep 20 20:48:59 2023 -0400
+
+    Update index.html
+
+commit 2f81778427df742aaa2d42711f96ad29ba8664f9
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Sep 20 20:48:36 2023 -0400
+
+    Update 404.html
+
+commit 87d342c03556eaa57a3e294582032992a09c455e
+Author: Furdox on Mint <nt879879@gmail.com>
+Date:   Wed Sep 20 20:40:27 2023 -0400
+
+    whoops, I had accidently fucked /oldwebsite, this commit restores it using a previous commit version while keeping all the new placeholder and plan stuff.
+
+commit 9189a09dbcf6f65924a0f0754b3a3508176d38d6
+Author: Furdox on Termux <nt879879@gmail.com>
+Date:   Wed Sep 20 11:04:09 2023 -0400
+
+    lol
+
+commit f7c561d5e9999dfa9c8c140f0140108be82347c4
+Author: Furdox on Termux <nt879879@gmail.com>
+Date:   Tue Sep 19 07:35:36 2023 -0400
+
+    added cssstructureplan.md (uh oh)
+
+commit e92e010543df5dd361aecdb7a4cc5924a16ed0c8
+Author: Furdox on Mint <nt879879@gmail.com>
+Date:   Mon Sep 18 20:47:58 2023 -0400
+
+    /website gone, officially in construction.
+
+commit 10b3718b7cebde13b3b4f63646e4f4e53e4a168c
+Author: Furdox on Mint <nt879879@gmail.com>
+Date:   Wed Sep 6 20:35:17 2023 -0400
+
+    index now redirects to /oldwebsite. ready for major changes.
+
+commit dd696ba0f0d36b10440f9b4171dd98aced165855
+Author: Furdox from git <nt879879@gmail.com>
+Date:   Wed Sep 6 20:20:20 2023 -0400
+
+    index now redirects to /oldwebsite. ready for major changes.
+
+commit 1fa7c2adc9e3151798b90d63735a514d6e3580d3
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Aug 27 00:21:30 2023 -0400
+
+    Update index.css
+
+commit df848f9e9e1b5ecf41517ba337d3c225a867948f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Aug 27 00:21:05 2023 -0400
+
+    Update index.css
+
+commit 0a1c327e386b845decc2c3bc92babb20a57ed588
+Merge: fab3799 a45f943
+Author: Furdox on Termux <nt879879@gmail.com>
+Date:   Sat Aug 26 23:41:39 2023 -0400
+
+    Merge branch 'main' of https://github.com/furdox/furdox.github.io
+
+commit fab3799248f2b9706789e16ae022b07770582a9e
+Author: Furdox on Termux <nt879879@gmail.com>
+Date:   Sat Aug 26 23:39:50 2023 -0400
+
+    joe biden
+
+commit a45f94303e403fd86ef45773d3cb5e156b52f5fc
+Author: Furdox from git <nt879879@gmail.com>
+Date:   Fri Aug 25 13:37:36 2023 -0400
+
+    added confid.ttc tetrio config to secret files
+    holy shit furdox xd
+
+commit 02c02c9000f3fcdba140cb0fedb4677c4aaed2f7
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Aug 24 00:43:25 2023 -0400
+
+    Update oldwebsite links/index.html to refeer to oldwebsite
+
+commit c36dfcef1d18fb718220be2a8ebb03f9f762f902
+Merge: ba45746 dbfb633
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Aug 24 00:37:53 2023 -0400
+
+    Merge pull request #21 from Furdox/oldwebsitetest
+    
+    get oldwebsitetest into main
+
+commit dbfb63303d8735aab6c4ae0d653a81c6dddb6597
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Aug 24 00:36:10 2023 -0400
+
+    Create index.css
+
+commit d162f6c3cfd588c2feb745ca9b5a70e8961e6f5a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Aug 24 00:34:35 2023 -0400
+
+    Create index.html for oldwebsite
+
+commit ba457461ba3a27f0800f5d14215c423ad24ce5a7
+Author: Furdox on Termux <nt879879@gmail.com>
+Date:   Thu Aug 24 00:24:01 2023 -0400
+
+    termux test youhouuuu
+    this is a test to see if I can be the ultimate geek and use Termux + other apps on my phone to update my website.
+
+commit 441bcff7edbcd7de5afa027a08569c2e0cc587fd
+Author: Furdox from git <nt879879@gmail.com>
+Date:   Mon Aug 21 01:05:15 2023 -0400
+
+    moving things to old website
+
+commit dbc48c5eaed78398c8f810faff3b274e92ca9d72
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Aug 20 20:50:40 2023 -0400
+
+    Update README.md's license part to make it markdown instead of html
+
+commit 3735247758411cfe6d14201df945700aef10ba58
+Author: Furdox from git <nt879879@gmail.com>
+Date:   Sun Aug 20 01:29:00 2023 -0400
+
+    git test 2
+    yay
+
+commit 3707f4057da7db753b58b29e1d5a57d2905aa268
+Author: Furdox from git <nt879879@gmail.com>
+Date:   Sun Aug 20 01:17:22 2023 -0400
+
+    git test
+    this is a test commit using git locally with the terminal
+
+commit 047a6bf80f4e58b6a5a482d2234da65105149086
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Jul 15 12:48:27 2023 -0400
+
+    Update randommarkdown.md
+
+commit d77c90228dc3c00becdd0a6c2e74f70ce2dd822f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Jul 15 12:46:16 2023 -0400
+
+    Create randommarkdown.md
+
+commit 0681de6e995fb41265c55fdf520e7410a58b3ef1
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Jun 30 21:05:25 2023 -0400
+
+    Add files via upload
+
+commit 3e09073d8a476ce5afd70318ce045ab05a39f348
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Jun 30 03:02:47 2023 -0400
+
+    Create nouveau 1.txt
+
+commit 6c956345779b9b8142f93fe667c7973793c54f04
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 25 19:54:21 2023 -0400
+
+    Update malkaykayhead1.svg
+
+commit 052529e71f8dba8107a92b938fdf7e5d76c5b665
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 25 19:43:28 2023 -0400
+
+    Update malkaykayhead1.svg
+
+commit 9d99d2ce5c7be3bd9190e308c2f222485d40a08e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 25 19:41:12 2023 -0400
+
+    Update malkaykayhead1.svg
+
+commit 66f17f4ffa8d24526330f373b81bb89e85e02174
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 25 19:31:24 2023 -0400
+
+    Create malkaykayhead1.svg
+
+commit a62f00d20c30db5e3fab1322c098174648e5c04b
+Merge: 03758ea 0774ca8
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Jun 22 15:19:34 2023 -0400
+
+    Merge branch 'main' of https://github.com/Furdox/furdox.github.io
+
+commit 03758ea56857e4207ec22b78810ef21e0ffc5565
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Jun 22 15:19:32 2023 -0400
+
+    Bumped up Sudomemo Profile.
+
+commit 0774ca87a7401c2cbc65fed3cc6409225774ae84
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Jun 20 15:12:15 2023 -0400
+
+    Background now at right center instead of right bottom. (2/2)
+
+commit c31c2c1af4e8e2138bb0f31efcc76d33bdc19c50
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Jun 20 15:11:37 2023 -0400
+
+    Background now at right center instead of right bottom. (1/2)
+
+commit 62c5a6bd6540d68624a326e0f9659648ab83f5d3
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 23:20:23 2023 -0400
+
+    Update index.html
+
+commit e1861120ac1be2f2bb04c40ab705cb36f79a3322
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 22:09:52 2023 -0400
+
+    Added Archive.org Profile to link hub
+
+commit 3ba9d8ea300c41bd545a1007fa8936b330fe4f1c
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 21:13:19 2023 -0400
+
+    Fixed ending position for links div animation
+
+commit 6b91e4f51215b34dd28894cfb15568237c1207cc
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 20:30:32 2023 -0400
+
+    Update index.html
+
+commit 72ae8815958bee73f610ead5f16604f667003e1a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 20:29:18 2023 -0400
+
+    Update index.html
+
+commit 6e2cc2e8904f93422b9e92fbff8db78a17661e3d
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 20:27:52 2023 -0400
+
+    Changed embed color
+
+commit f987657e63ab342d259b491e67afc7d3df407b24
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 20:27:00 2023 -0400
+
+    Google / search engine stuff
+    
+    Added description
+
+commit 1b2d77ad215a6d745cfb9d057422ddeaae57e3c5
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 19:35:15 2023 -0400
+
+    WIP Spotify links
+
+commit 24bd286f1c19b5534b94dca35167c3d95ef8cf4b
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jun 11 00:32:50 2023 -0400
+
+    Added slashes after links since Vercel doesn't automatically  do that :/
+
+commit 2755102dcb942c6c4a9ac8a5e9d2acf0e9e470ec
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Jun 10 21:19:43 2023 -0400
+
+    Added Sudomemo profile to Link Hub
+
+commit 955441c539fd652237bd5bfc499c72a79ea7dcf9
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Jun 7 19:55:34 2023 -0400
+
+    Add files via upload
+
+commit 26278ee3467c838bc8a4b694210ec5da298d21e7
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Jun 6 22:12:40 2023 -0400
+
+    Add files via upload
+
+commit b5e0af66b06d4f54be5a634a5f63a47ee8e34db9
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Jun 6 19:07:12 2023 -0400
+
+    Update webhooktest.html
+
+commit c08427e8a418197ed2e1ddcbba33cdb28d069e86
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon May 29 14:32:40 2023 -0400
+
+    Update index.html
+
+commit a6233e020c79081db4a350db0148b7ca661a44b6
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun May 28 20:25:36 2023 -0400
+
+    Added joe biden (#general benis Bot in the new simple Discord server) visit webhook.
+
+commit d9c6be86e929e341d00ac2692ac1208e676cc637
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun May 7 16:13:19 2023 -0400
+
+    Update desktophomepage.html
+
+commit ceb7343ab6cf87cd7985652ad545f88ca61b5931
+Merge: c161d2f 973b413
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat May 6 16:36:04 2023 -0400
+
+    Merge branch 'main' of https://github.com/Furdox/furdox.github.io
+
+commit c161d2f01aa264d2176cd11757566e4853f56f38
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat May 6 16:36:02 2023 -0400
+
+    Link correction for yt-frame-timer.
+
+commit 973b413b359c25f9c976aa14339a20b39113f5ad
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat May 6 15:29:38 2023 -0400
+
+    Update ReAdMe.mD
+
+commit a5b12b9675c157d7d5bc96629a2f288741c083f3
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat May 6 15:28:41 2023 -0400
+
+    Small update to yt-frame-timer. (Fixed CSS and changed credit message.)
+    
+    Fixed CSS and changed credit message.
+
+commit 9bac7c5976321ab0b98124cc68f73e2f2cc41db5
+Merge: 80ec486 23b365f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri May 5 00:22:15 2023 -0400
+
+    Merge branch 'main' of https://github.com/Furdox/furdox.github.io
+
+commit 80ec48663e97b06ada30d0fa56f94d75db28c752
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri May 5 00:22:10 2023 -0400
+
+    Temporary CSS for another website.
+    
+    I'm contributing to sofco.tk rn.
+
+commit 23b365f4f322d3e54e4cd7daa2d0448c59a0f792
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu May 4 23:50:48 2023 -0400
+
+    Create static.yml
+
+commit 8bea0a47ea6bbb420ebec47fb514a129e38fd47a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed May 3 09:34:15 2023 -0400
+
+    Made DMCA protection badge bigger and added placeholder JS interactable div tags.
+
+commit e53fab25463b6e6a88134a046fab977693b5122a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue May 2 18:52:58 2023 -0400
+
+    smol change (w is now W for main page's title)
+
+commit 566bb0773975b5b8206b985d363d5eaecaceacdf
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue May 2 18:22:37 2023 -0400
+
+    Changed how CSS was referenced.
+    
+    Instead of being relative to root, it's now relative to current folder.
+
+commit cc419368a187df59a152eb355d99ca345f84811e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue May 2 18:16:37 2023 -0400
+
+    Better compatibility for yt-frame-timer.
+
+commit ecd6a2877b0e12fe8ef895d1448b721841b76914
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Apr 30 21:32:38 2023 -0400
+
+    Update index.html
+
+commit 3448d51ccd4ea95c9265208d8e4b42c1f98c7507
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Apr 30 20:18:01 2023 -0400
+
+    Added DMCA protection. (I want the image to be bigger though...)
+
+commit 2a5cb535f73fa9b7b3a3776b49a41b93bfabbd89
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 29 16:29:49 2023 -0400
+
+    Added embed.
+
+commit 2551c3b01639c004c6f4e542d8a50b7f12ad52dd
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 29 16:24:58 2023 -0400
+
+    Moved everything to an actual folder.
+
+commit 59d1b4a66c8260f722a65e3696f0901ec476e13f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 29 16:22:17 2023 -0400
+
+    Create ReAdMe.mD
+
+commit 1e6845d5366f071ff251cf88eb05e1c98d127b07
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 29 16:15:17 2023 -0400
+
+    made labels red for yt-frame-timer
+
+commit b2b656cef7cd09b13ab27a9577d279cead158bba
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 29 16:12:46 2023 -0400
+
+    Update yt-frame-timer.css
+
+commit ef99a7f81e72d1f895389391ec91b92710d982c4
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 29 16:04:49 2023 -0400
+
+    Update yt-frame-timer.css
+
+commit f448020d42cf8b5e0cb5d12df0398aed84dd2fa8
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 29 16:01:54 2023 -0400
+
+    CSS UPDATE FOR YT-FRAME-TIMER!!!
+
+commit d460351f76dc9a9633e7715069b985364b5c773e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 29 15:53:43 2023 -0400
+
+    Create yt-frame-timer.css
+
+commit 4022e7733819a8c4779cd05892c6d7c5bcdbdab3
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 17 21:17:09 2023 -0400
+
+    Create plan.md
+
+commit 66a03e9957ec373ebdc30f11767f1984fceb1894
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Apr 16 15:20:14 2023 -0400
+
+    ..
+
+commit 38102c30c6d9f2f82c97cdebcf46a45beb7c08e7
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Apr 16 15:03:00 2023 -0400
+
+    .
+
+commit 916fdd35d5068d6d6e250e3f1950bae6c1cdd48f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 15 22:25:35 2023 -0400
+
+    Update index.css
+
+commit 75e0e8704d76e129c65a44631cfc2adab4061178
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Apr 12 20:41:13 2023 -0400
+
+    Update yt-frame-timer.html
+
+commit f3e2e3660f1dfc855551210ffc5225b066a8e6b4
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Apr 12 18:58:00 2023 -0400
+
+    Update yt-frame-timer.html
+
+commit 7b2b66462ff456d005f8459a29a14f675d4f5a2f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Apr 12 18:24:36 2023 -0400
+
+    stoled cookiestest.html :smiling_imp:
+
+commit cc0cf6c4774629b637199ffaffc2463e1ec8db6e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 10 22:33:46 2023 -0400
+
+    Added yt-frame-timer.html in secrets folder.
+
+commit c9e0deb8eda8c2ce0ca66f7756c412872ba5dbe5
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Apr 9 03:05:19 2023 -0400
+
+    Added NOTICE in the README.md
+
+commit d5a24fdce469505deeebd4e8efb610b25776fab5
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 8 15:55:27 2023 -0400
+
+    dang, it was wrong all this time...
+
+commit 2ec2964c6b9b00ef69bb257988f5f5f3c714a1c1
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Apr 2 23:57:00 2023 -0400
+
+    Firebase test
+
+commit cae785b259409551c8713457b0ac8666860505de
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Mar 31 20:08:24 2023 -0400
+
+    HUGE README.MD update.
+
+commit 32910a77671b41cc47158037c25efc634899c277
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Mar 31 19:42:29 2023 -0400
+
+    Redid most of the formatting since a lot of it was wierd because I didn't know html well before. Also, very small secret changes.
+
+commit b7ce5c0dd218e225ec497150e3fae19d49884097
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Mar 21 20:40:59 2023 -0400
+
+    Added files for a Discord report I'm sending.
+
+commit e2e188acfeb0f62cd31c88ca4e5112ac31e24318
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Mar 8 17:24:35 2023 -0500
+
+    Added test Unity WebGL Demo.
+
+commit 7b46f8766ec2bf0a69bad7b22ee90f8e22fc890a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Mar 8 17:23:14 2023 -0500
+
+    Delete .gitignore
+
+commit 9139281fdc8d3e09aea8ad584f979b5b5c0c3de5
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 6 16:40:56 2023 -0500
+
+    Forgor 💀 to push changes yesterday.
+
+commit 2f09919f4eed227fdba4ea6b3f4fdb3e39b44c35
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 6 00:17:54 2023 -0500
+
+    new.css test pages made. Also, minor changes to header structure on main page and links page.
+
+commit a9c58c0590a2bdd69b7bcdf6b4f5765d06915fb5
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Mar 4 00:22:18 2023 -0500
+
+    Added Ash Ketchum image (for unfatal.xyz).
+
+commit e0ea41c1d0118945cb251ef58f67229482dd74f7
+Merge: 49fd189 0c509fa
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Mar 4 00:15:38 2023 -0500
+
+    Merge branch 'main' of https://github.com/Furdox/furdox.github.io
+
+commit 49fd1893e38b2e494998e0619bd3e19adc2e9a10
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Mar 4 00:15:35 2023 -0500
+
+    idek
+
+commit 0c509fa04b0b80d40c986beb6c108c0ef175a80b
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 26 18:43:06 2023 -0500
+
+    Added my MKDS Player's Page onto Links Page!
+
+commit 48305577b4ce708638ba997973cfdba41558b190
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Feb 21 21:30:34 2023 -0500
+
+    Update desktophomepage.html
+
+commit 331d02df8560535e567ae38ebd62a6972bee3ac9
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Feb 21 21:28:11 2023 -0500
+
+    Update facts.html
+
+commit 3d804f8299144231de3385a1fcfcd68e799b19cf
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Feb 21 21:25:39 2023 -0500
+
+    Update facts.html
+
+commit 53aa8c1ab1e6824b3ce85df858284ce1cf7dfd64
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Feb 21 21:22:57 2023 -0500
+
+    Create facts.html
+
+commit e3a41ef8ad7335ab1fefbd46d2f9df02051ab784
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Feb 16 18:41:50 2023 -0500
+
+    Update furdoxrss.xml
+
+commit bed0f264b6d023b0dda568df89cf123372d6f998
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Feb 16 18:15:23 2023 -0500
+
+    Update furdoxrss.xml
+
+commit 82558812c9371dba954980b81637622823b956ee
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Feb 16 18:14:30 2023 -0500
+
+    Update furdoxrss.xml
+
+commit 510a2654ce97f20e155f01ed7ab677352e8c4bfd
+Merge: 3fecba0 dc08c45
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Feb 16 18:10:13 2023 -0500
+
+    Merge branch 'main' of https://github.com/Furdox/furdox.github.io
+
+commit 3fecba04c1b01980f2d3fa90824e3d42078df42f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Feb 16 18:10:00 2023 -0500
+
+    CREATED RSS FEED!!!
+
+commit dc08c45be90533ca5df1cbcb1362913e782d2d31
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Feb 13 12:03:38 2023 -0500
+
+    Update animation for links page.
+
+commit dadf060dc8b9c0fdccda455432caf7bc64a14d5a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Feb 13 12:00:23 2023 -0500
+
+    Update animation for links page.
+
+commit 32293ba9d05e42b056fce3a8b5a2b215aa709114
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Feb 13 11:58:33 2023 -0500
+
+    Update animation for links page.
+
+commit b5e6f7715695433a07878a387f440789518e51d6
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Feb 13 11:54:21 2023 -0500
+
+    Update Animation for main page.
+
+commit d9e04a231ff9471815eb7979d6883b38f22192a1
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 16:22:24 2023 -0500
+
+    Capitals in metadata
+
+commit f55bc803281e120eb96ec1a8baffc15294ec3abe
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:57:29 2023 -0500
+
+    Rename website/secret/archiveccsmodtest/index.css to website/secret/archivecssmodtest/index.css
+
+commit bede488d272d644b0fe042dd37137ac13a68f1b2
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:57:01 2023 -0500
+
+    Rename website/secret/archiveccsmodtest/index.html to website/secret/archivecssmodtest/index.html
+
+commit fff7cdfc9ff32070e402e5177b745502f5235ccc
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:56:48 2023 -0500
+
+    Update index.html
+
+commit d22a1e8ef64739f2d22aeda4bc7e01ce21eeb009
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:49:33 2023 -0500
+
+    Create index.html
+
+commit 758cd6e62457610822003e623f1495919fd359e6
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:47:27 2023 -0500
+
+    Update index.css
+
+commit 8d93d6e5ced5d1da424f30d96a8047c3a4fabd55
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:46:28 2023 -0500
+
+    Create index.css
+
+commit d5582d9aeed3253cda4d8fa03a9d07085f8d34a6
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:27:19 2023 -0500
+
+    Update Animation
+
+commit 5917073d6bc6a145a6264354d29b96b7c449b1fb
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:25:24 2023 -0500
+
+    Main page is now centered.
+
+commit 742a177deda6cc9d361dc03f763c52ea021a0a14
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 14:21:39 2023 -0500
+
+    Animation update
+
+commit aba750be37b4ee2e1e218cd11cfbef378efa9eea
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 13:57:18 2023 -0500
+
+    Main page is also now animated.
+
+commit 0c9857abe089ea6522093998031e9137ea70493c
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 12:43:34 2023 -0500
+
+    Slight animation update.
+
+commit 677d78a21e9504eb65a5be86aa4f247cee0c2a94
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 12:39:54 2023 -0500
+
+    Slight animation update.
+
+commit 8ea102c84d2860320d54a50c6b1b46b399202c1d
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 12:26:11 2023 -0500
+
+    Fixed animation for links page.
+
+commit 297d7db25032f2b13ba08759977dfa6e2637bce7
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 12:08:16 2023 -0500
+
+    Removed all the span tags in the links page because they were useless.
+
+commit 2653eda09d7eb7c678830f6fbbf8c6349870e382
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Feb 12 01:17:42 2023 -0500
+
+    Create twitchchattest.html
+
+commit 6df9c7c23421e08ef777b4c67ecbdd84bf11cc1f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 18:31:09 2023 -0500
+
+    Minor changes
+
+commit a98040807b187a224a02b4c17c02f4c9e8258ab5
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 18:24:30 2023 -0500
+
+    Small changes
+
+commit d53eb0fa8dbe1a5062efab02e5f08d9b53ff43b6
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 18:19:36 2023 -0500
+
+    Links are now in the middle and the links page has it's own css now.
+
+commit 1c70e2c752f4290b48b740dad93c2d1b80448c6b
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 18:10:54 2023 -0500
+
+    Modified hr on main page
+
+commit 63ff84f9f3897f92375a0082947f04820a5d1288
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 18:04:38 2023 -0500
+
+    Background now stays in place.
+
+commit 3c09cd08e2c5c6e90661c800a0d820d8d7457736
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 18:00:36 2023 -0500
+
+    No more relying on tiny.cc ;w; (makes me kinda sad tbh)
+
+commit 209b8b1e23d370c4ef5280b502ca2bf223e1e12e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 16:30:42 2023 -0500
+
+    Fixed back button
+
+commit f5aed5775e1d5009e836131d74d09637571db625
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 16:27:38 2023 -0500
+
+    Faute de frappe 🙃
+
+commit ba02cb40b3021f178a98d7bfcd3d1bb24f36fecc
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 16:11:36 2023 -0500
+
+    Fixed backdrop.
+
+commit d90628596c02962b3eadfa7fd0d30b93e36c8598
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 15:38:49 2023 -0500
+
+    Added backshadow to the links themselfs.
+    
+    They're in a new custom tag.
+    Also, moved links page title from body over to title.
+
+commit f79c97ff0cab04837b99d860aa86b7cf451ac553
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 15:27:23 2023 -0500
+
+    Small update for links (hover is now none)
+
+commit b24568c33d48d43154997b1d1def84c9c0cda631
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 15:22:21 2023 -0500
+
+    Fixed Background, fixed image metadata and updated main page a bit.
+
+commit 7703b61e9f2f487d14844690b516de3f9a8479b1
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 11 14:21:11 2023 -0500
+
+    Update Background
+
+commit 26010eb88a0e2c779abad0c1d0a2e9dc7100083c
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Feb 7 21:06:47 2023 -0500
+
+    Loads of changes.
+    
+    1. Deleted screenshots in secret folder because I backed them up.
+    
+    2. Added image metadata tag on most pages.
+    
+    3. Minor format update on one page.
+
+commit 07500aff68ff5d8c28f53c3a6b8511d8279acac6
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Feb 7 11:48:58 2023 -0500
+
+    Added sar_bg_notext.png to CDN folder
+
+commit 3ce04a23d439e332c72d237e7678e0decb0b7860
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Feb 2 14:11:14 2023 -0500
+
+    Add files via upload (artthingy1_sec4.psd)
+
+commit 81f038e9de023ef79d2f2d3dca19373d358ed801
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 29 11:26:26 2023 -0500
+
+    Create test2.html
+
+commit 22adf5873867ea31859ef101f6812f9e8a454779
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 29 11:12:04 2023 -0500
+
+    Truly removed ads. (3/3)
+
+commit 9336394f4fc1e8051aacaafb1b65d9d13b23abb8
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 29 11:09:56 2023 -0500
+
+    Truly removed ads. (2/3)
+
+commit b6ba6f7fea110dd723afb6fe4ffc9bc13d73b56a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 29 11:08:58 2023 -0500
+
+    Truly removed ads. (1/2)
+
+commit 79d986193d5b73ef81427472b3e44096c0c1d6fe
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 29 11:05:25 2023 -0500
+
+    Update iframetest.html
+
+commit 0013886a0568464bcf005dbfb78d85877c4f3fa0
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 29 11:02:52 2023 -0500
+
+    Update iframetest.html
+
+commit 1835387d75825afb29d7ce2b3ce587f1320a30d8
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 29 10:58:37 2023 -0500
+
+    Create iframetest.html
+
+commit 690982e10c65aefe4384be2757d064e27afe9012
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Jan 26 16:47:02 2023 -0500
+
+    Added easy Discord lookup on my Discord User Banner thingy
+
+commit 1b80ccd1ceefd4cd1e0e49501a2f03de296e9c3d
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Jan 26 16:29:54 2023 -0500
+
+    Update index.css
+
+commit ef986e551c631f40cc040e08e73b55f17445ed40
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Jan 23 22:25:00 2023 -0500
+
+    Create Placeholder for bio page.
+
+commit 9833d97bff53a0d9918a92741688d0d94a078c74
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Jan 23 22:23:47 2023 -0500
+
+    typo I didn't realise until now
+
+commit 7e15cb949de7ecd40a7e00080d2073149ca0c720
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Jan 23 22:10:06 2023 -0500
+
+    Update font path (4/4)
+
+commit 561b35ce4e656c1eba0cc2f3d52e01cef8a1db01
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Jan 23 22:09:29 2023 -0500
+
+    Update font path (3/4)
+
+commit c00dfe7a7ceded7c9e9a49c181cb402d20e9fcb4
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Jan 23 22:08:47 2023 -0500
+
+    Update font path (2/4)
+
+commit 6828a8cb259e171a5c88b9de6e3d553df721aa26
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Jan 23 22:07:19 2023 -0500
+
+    Update font path (1/2)
+
+commit 4b1e31e2446b26a97e31cc2ed311892223193078
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 15 14:33:10 2023 -0500
+
+    Update discordoverlayrefresh.html
+
+commit 8b062b49ae6e8d32c6670c78287b21c3c7f8b80e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 15 14:24:31 2023 -0500
+
+    Rename discordoverlayrefresh to discordoverlayrefresh.html
+
+commit 8ca2209e17760d0c124e1932ab22e7a4b2616ce1
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Jan 15 14:24:20 2023 -0500
+
+    Create discordoverlayrefresh
+
+commit 7bccd4d4ded1b478cff00d1f9dd13579b087d590
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Jan 14 01:33:31 2023 -0500
+
+    Clarified RiiTag game placement (I know it's wierd...)
+
+commit 7b73e5083b6bbf109204e4017360bd3b2a184b36
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Jan 14 00:57:25 2023 -0500
+
+    Fixed RiiTag being too big and view count being broken.
+
+commit 83dfd68307a4a8535e67fd37d2bfcbbe5e6cb43a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Jan 11 22:38:58 2023 -0500
+
+    Added RiiTag! Also removed ads.
+
+commit 38bc4566fbddf06a00621e524878259c327ec451
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Dec 18 11:21:45 2022 -0500
+
+    forgot to add title for browser homepage
+
+commit 9e214fbd4e1e500791dc58af08139ef1ae412551
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Dec 18 11:19:45 2022 -0500
+
+    Fix embed link (4/?)
+
+commit e11c14d8a94c08b0ba730a661c9c977c6d060fce
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Dec 18 11:19:19 2022 -0500
+
+    Fix embed link (3/?)
+
+commit 64531988174e1973915ed421241498693cbfb973
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Dec 18 11:18:43 2022 -0500
+
+    Fix embed link (2/?)
+
+commit bfbea79f3b1627c1952922388e3568747089d7eb
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Dec 18 11:18:19 2022 -0500
+
+    Fix embed link (1/?)
+
+commit 43692be16bf059fb33448a950db93d8a5cf18352
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Dec 18 11:17:36 2022 -0500
+
+    Update desktophomepage.html
+
+commit 6cbac5c4f3f8227761e9d6e9f2769ec7be242cda
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Dec 15 23:03:12 2022 -0500
+
+    Update desktophomepage.html
+
+commit 3290945e6b880dca3d8be98d69f0895198aded9c
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Dec 15 22:59:24 2022 -0500
+
+    Update desktophomepage.html
+
+commit e985e5618646a0d555429a9f9fda82b740b439ca
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Dec 15 22:55:33 2022 -0500
+
+    Create desktophomepage.html
+
+commit 83f26db33937f93a8ef0436e43e1fba0b72b85e2
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Dec 15 12:50:05 2022 -0500
+
+    Added fallback font
+
+commit f5e603a9b06896e2b5db275c6e383b625eb1bf33
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Dec 1 19:30:25 2022 -0500
+
+    Create krnlbypass.html
+
+commit 3a0ed498a95550276fb935ea149e512b1f9bb268
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Nov 30 20:58:23 2022 -0500
+
+    fixed wrong comment
+
+commit 88a53eb0a0421b5b84370fa3257b1e215b9a7bac
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Nov 30 19:14:27 2022 -0500
+
+    fix
+
+commit 4cee9388c462c3b1b9ad2daa4ef3115235f964e6
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Nov 30 19:11:35 2022 -0500
+
+    removed osu! tab for now and added view counter
+
+commit 5b9088e2d13b48c3f5083b1eae52eb077fe2a7c8
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Nov 30 17:33:03 2022 -0500
+
+    Rearranged the links.
+
+commit 9f3f5d43d8636010f1926c7f4504eb2d8f9303de
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Nov 26 17:09:24 2022 -0500
+
+    add favicon (finally)
+
+commit 5858b731ea2549a1a02ec8128ec2a89e272f4cff
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Nov 8 13:23:23 2022 -0500
+
+    pmta secret
+
+commit 60a68bc9c7454bae1a892e335254f885c5d17720
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Oct 23 11:30:50 2022 -0400
+
+    backup
+
+commit 3cb88a93ed193fdf8034baaadf9392cf3f3ae62c
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Oct 20 16:50:53 2022 -0400
+
+    Add files via upload
+
+commit 4f8e7890997a6e2d5e885c63fd75fef5e787f893
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Wed Oct 19 17:19:30 2022 -0400
+
+    screenshot backup
+
+commit 1c5c1f5e3f01d1e6e607d68a3316187d84033681
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Oct 8 18:36:30 2022 -0400
+
+    updated ads (2/2)
+
+commit d08fe77f8983b7f972d88e1d75491fc0ccd10d90
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Oct 8 18:35:50 2022 -0400
+
+    updated ads (1/2)
+
+commit 75ae13e9201eb53c6f0022cc339f2012025aaa2d
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Oct 8 18:32:49 2022 -0400
+
+    added ads (oof) (2/2)
+
+commit b14e6b64c933ad60b9575814f1c661213feefe5a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Oct 8 18:31:40 2022 -0400
+
+    added ads (oof) (1/2)
+
+commit 7bc41403e3614a09de81aa7a3304bf852ffb1ff3
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Sep 3 23:13:54 2022 -0400
+
+    Title update (and added comments)
+
+commit 76f2fdcafc6056e688fd7a0859b4557a9b2e21c2
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Jun 27 14:54:06 2022 -0400
+
+    Add files via upload
+
+commit b64d836879c2eb9c6bde58a9349f475ab22c6040
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Jun 7 19:27:03 2022 -0400
+
+    It got a conditionnal unblock ^//w//^
+    
+    poggers :3
+
+commit 1b518d01cdf17ed919e32316ca801525068849f1
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Jun 4 12:01:32 2022 -0400
+
+    twitter blocked my account for underage creation while I started actually using it at 13 ;w;
+
+commit 18892254b46d2191a808aed9f2f537eef9ac5152
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon May 16 21:25:26 2022 -0400
+
+    Updated font to SAR one (2/2)
+
+commit 8feb189c5d2d833694ca35fa6e993eeea546b98e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon May 16 21:22:17 2022 -0400
+
+    Changed Font to SAR one. (1/2)
+
+commit 200ebc6d71fd97ad20511715785075101d59892c
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat May 14 16:00:04 2022 -0400
+
+    Create CNAME
+
+commit 43211910ff7a68054ed3b5baa087a138be576680
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat May 14 15:59:45 2022 -0400
+
+    Delete CNAME
+
+commit 319536d1fd716820dd7ad2e711575c3a6b4bfc0d
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat May 14 15:17:14 2022 -0400
+
+    Create CNAME
+
+commit 5f7ca44b89e938c5102627b6840800452257b8bb
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue May 10 12:48:17 2022 -0400
+
+    changed color for discord link
+    
+    it's now the official new blurple
+
+commit 2601c5458acc2ee50a4e71d7759781d95032f135
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue May 3 18:26:37 2022 -0400
+
+    wiiguide redirect
+
+commit c826f838f66828d7b36941cd86c07b3cce11da8e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue May 3 18:19:01 2022 -0400
+
+    added comic sans ms ttf
+
+commit f07f6fdc99d76ff542863e2393e38f15ed941335
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue May 3 18:16:38 2022 -0400
+
+    added local comic sans ms
+
+commit b9c7347a4526b3ccbb8028380ba3ca408d3cb2e4
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 14:24:16 2022 -0400
+
+    something (yet again)
+
+commit 868addba067f8e46e72d89cfad11e4951a4a4da9
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:19:06 2022 -0400
+
+    css in /website/links was a copy of css in /website, so it is now using /website's css.
+
+commit df7ff65f3b3734fabe079ae2bed6d44b6e0a8d42
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:17:17 2022 -0400
+
+    Delete index.css
+
+commit 7c411de5cdfbd276596500ca0f5543f3cc3598f0
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:12:38 2022 -0400
+
+    custom2 was nothing so I replaced it with custom1
+
+commit 4ce1cf5381e92ef54f6832a3ea3bd6d82fd87409
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:11:54 2022 -0400
+
+    Update index.css
+
+commit 819f0db1729de2353859de559616938666c95540
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:07:59 2022 -0400
+
+    didn't even notice custom2 tag was "corrupted"
+
+commit 91863f960a40cd2500d5099a7544e8dcb0746b6f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:05:47 2022 -0400
+
+    Update index.html
+
+commit 0c662973bbe4efac0a623be39e625d2b878d3f28
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 12:57:03 2022 -0400
+
+    something (again)
+
+commit 9429f1e0c42bf3f5ee2a319ad14da70d332515cb
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 12:56:03 2022 -0400
+
+    something true
+
+commit d8d510b3a1b8e8e2dcc91336e5aaf54451c81a79
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:49:13 2022 +0000
+
+    Update index.html
+
+commit b0f2b5e63d6790b961fcf2c54fe393a2554c6bcb
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:48:47 2022 +0000
+
+    Update index.html
+
+commit 79ce43492c53cdb5ecc2240ef2355c686e8fa96e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Apr 18 13:45:45 2022 +0000
+
+    Update index.html
+
+commit 9c419ce2ca27742c3e0224ca7401de872fb01413
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 16 23:34:27 2022 -0400
+
+    le texte était trop noir donc je l'ai mit comme les autres >w<
+    
+    oof
+
+commit 90153b1f808581a6dcfbac4a6ab003ef482fbc31
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 16 23:32:13 2022 -0400
+
+    répertoriage de la page noir (cool)
+
+commit 43e30b064fdfcaf80af2ef2a06658e46ec4fc413
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 16 23:08:42 2022 -0400
+
+    added nsfw page for furaffinity
+
+commit 6179d25bf1c956596c6319e7b1c1cfdea53259a8
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 16 23:02:37 2022 -0400
+
+    better lines
+
+commit a848845b9c836b4c32c658c2315ee533abd6f626
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 16 22:59:00 2022 -0400
+
+    Update index.html
+
+commit cc8c46c814c1c481ee1a0afdabd157308dd52d0f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 16 22:54:46 2022 -0400
+
+    added embwed suppowt fow discowd owo uwu
+
+commit 5ba1a64cfe096bed17189e1f2c31ecb1240f63be
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 16 22:52:57 2022 -0400
+
+    added embed for discowd owo uwu
+
+commit 70886e9284663de8c87bb7c25acac3b9ca751ad2
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Apr 16 22:45:25 2022 -0400
+
+    racism be like: omg it's a black page!!!
+
+commit 230cada4cbdca4b3d6a7505dc824f668c4f1de2d
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Apr 3 12:55:52 2022 -0400
+
+    Create e.txt
+
+commit 4dccbfae87fa92aa92b291e9094b491e70c6705f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Apr 1 16:14:19 2022 -0400
+
+    Create test1.html
+
+commit 04e1181b8bf503896c918fa986d99310a0325871
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Apr 1 00:23:33 2022 -0400
+
+    Delete _config.yml
+
+commit b74fe22813e94480753b0f8459bbca440d2db948
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Apr 1 00:19:57 2022 -0400
+
+    Update index.html
+
+commit 906d60cc56169b303f308e6bab517d9795a5bd98
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Apr 1 00:19:02 2022 -0400
+
+    Update index.html
+
+commit ce4c1f88eee8e652c0acfa014a41233d5ddac5b1
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Fri Apr 1 00:17:58 2022 -0400
+
+    Update index.html
+
+commit 9b25c8a2955c8321aebf90f0075c2f14805748f9
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 13:03:39 2022 -0400
+
+    Update index.html
+
+commit 4daccec3af049f47cb0a405efcea593ea621f0ca
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:52:34 2022 -0400
+
+    Update index.html
+
+commit 43d4298515ff8bcc5263ce23a0a22bcc7715b4fd
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:47:36 2022 -0400
+
+    Update 404.html
+
+commit 90d9fc517d5e210e12866884ee35968b119acf0e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:47:11 2022 -0400
+
+    Create index.html
+
+commit 5314548360d6fcffde911e1479a375304e3fa538
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:43:47 2022 -0400
+
+    Update 404.html
+
+commit 47f853f91a365cfa88189624043a280fc572b1df
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:40:25 2022 -0400
+
+    404
+
+commit 2b8ac0db90ce6b7c2e1067ddfc55f14fcc23d84e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:39:53 2022 -0400
+
+    404
+
+commit 7cbe40da751d73fc5df2d3bb752909225a322d1c
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:18:34 2022 -0400
+
+    Create hi.html
+
+commit 02ecbc7b09c5c7831e5376b2e25c5559c221708f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:17:30 2022 -0400
+
+    I keep trying
+
+commit f1aa94f7411c8ca1e51acd479c48788d1eda512a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:16:55 2022 -0400
+
+    Delete website/secret directory
+
+commit 4593fef8db0c3b667ba1f5ebb89dc9dff711d9ac
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:12:18 2022 -0400
+
+    Update .gitignore
+
+commit 6eb195b670de80a11555bc0841d787bf55d17260
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:11:38 2022 -0400
+
+    Create .gitignore
+
+commit 9f497733bfa23c99f3b230538f75a62191ab76bd
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:10:38 2022 -0400
+
+    Rename secret/hi.txt to website/secret/hi.txt
+
+commit 120f3bb02669b6da49dba9259197d5ed7dd4fe6f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Thu Mar 31 12:10:01 2022 -0400
+
+    Create hi.txt
+
+commit dc9af184bd020c5e59bd1d8a6d62b35ec97278da
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Tue Mar 29 20:28:49 2022 -0400
+
+    Update index.html
+
+commit c8d980fa5d8b9574fa6f3512afa338f3cfacd5d2
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 28 21:08:48 2022 -0400
+
+    Update index.html
+
+commit 2b248849af72a5af1670868f785a455862c8bf0f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 28 16:43:39 2022 -0400
+
+    whoops
+
+commit 60a5cab4b03be12aceca6cc00c7a73f2e73d9c46
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 28 16:43:07 2022 -0400
+
+    whoops
+
+commit 813551b27bf99f40014b5b5ba11568f5ee91080c
+Author: Furdox <nt879879@gmail.com>
+Date:   Mon Mar 28 16:40:23 2022 -0400
+
+    Moved to /website instead of root for future proofing
+    
+    cool right?
+
+commit df3069ed50eed1a3994b822728d0b0309d931ba2
+Merge: 9367743 8f051b3
+Author: Furdox <nt879879@gmail.com>
+Date:   Mon Mar 28 16:20:08 2022 -0400
+
+    Merge branch 'main' of https://github.com/Furdox/furdox.github.io
+
+commit 8f051b36666d95b9b618f1f6d69e985aa19c6f3a
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 28 16:18:38 2022 -0400
+
+    Rename website/index.html to index.html
+
+commit 17e5eb4d512860af02081e337ab2a3476f976b70
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 28 16:17:58 2022 -0400
+
+    Rename index.html to website/index.html
+
+commit d1e62b40614545cae6cb44acc1e8ae7fe8fc1f6b
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 20:11:48 2022 -0400
+
+    Update index.css
+
+commit 6753c498c1e924a5df306abf54d36e0d3e4e0b33
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 20:11:29 2022 -0400
+
+    Update index.css
+
+commit ebfdc62823b575c3340341833725c08dc67c2c1d
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 20:08:15 2022 -0400
+
+    Update index.html
+
+commit befe7ec7adaae9e1409f4ddbb66852848cda8674
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 20:01:31 2022 -0400
+
+    Update index.html
+
+commit 42c1803dc94cad7bce0b82d0d4e1ba0c5c23fd97
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:51:10 2022 -0400
+
+    Update index.html
+
+commit e51b09c5d4bbf7db8ca3b1ae095a0813fa8e8869
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:50:22 2022 -0400
+
+    Update index.html
+
+commit 47d74e4af77c3f3e841e0b213e49c3d4667e54bf
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:48:13 2022 -0400
+
+    Update index.html
+
+commit ca290705c5ee45758c28a8f0aeeb540443f12215
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:46:53 2022 -0400
+
+    Create index.css
+
+commit 5c9590c2292699ce89a8564badda9133bb5e435e
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:46:07 2022 -0400
+
+    Update index.html
+
+commit e1e2e22dfecd8de5626879c95626abeaf58aa3a8
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:45:30 2022 -0400
+
+    Update index.html
+
+commit 756e6b39f97c0894f7e83dab5d8b208fc57c9627
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:41:16 2022 -0400
+
+    Update index.html
+
+commit 6b8b6f61fbd7118c2984ddd644216cafb2c4e9af
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:25:33 2022 -0400
+
+    CSS FOR WEBSITE????????
+
+commit 248a96e314704ee40f302d7e88f347d3853d48ac
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:24:36 2022 -0400
+
+    less gooooooo
+
+commit 82095a94fc75c7aa2f3c57d7f079cd10ee19d525
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 19:04:50 2022 -0400
+
+    ph
+
+commit c1d4d575943199ac15300c38275bb8530387a4c0
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sun Mar 27 18:21:50 2022 -0400
+
+    Update and rename website/root_aka_main/yomama.html to website/index.html
+
+commit fdd3955ca04777c49fe337704b06b35e78380deb
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 14 18:56:32 2022 -0400
+
+    e
+
+commit 76cb2d9833940cc6fb0a7f52c2bba2b685f0974f
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 14 18:53:49 2022 -0400
+
+    Set theme jekyll-theme-cayman
+
+commit 38eb5b29c084babde8b4a187c1a00d322a19e8e7
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 14 18:50:52 2022 -0400
+
+    Create index.html
+
+commit 9884b4fe58f8127d33f85641f394c93cc0474517
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 14 18:50:13 2022 -0400
+
+    Delete _config.yml
+
+commit 28d0200ca935ab4701dbbc7cd05775723f3d38f1
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Mon Mar 14 18:49:57 2022 -0400
+
+    Update README.md
+
+commit 606fbbf2c1e29ce1c42821f9e0dcd53aeee911af
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 19 20:21:09 2022 -0500
+
+    Create README.md
+
+commit 4110cc4ac437aaf05951b37b30b403f0851e7f3c
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 19 20:20:45 2022 -0500
+
+    Set theme jekyll-theme-slate
+
+commit a2914b0aae29bf68ca6ab08ce0df5b88dd02d1d9
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 19 20:14:09 2022 -0500
+
+    commit lolollolllooooooooolllllolollool
+
+commit 9367743d9a863244b481653703b9dca5ddda541a
+Author: Guff <nt879879@gmail.com>
+Date:   Sat Feb 19 20:03:20 2022 -0500
+
+    commit die lolooolloololo
+
+commit 80b5491ebdb7c20976d7ba3fedd72a625ed1e4f2
+Author: Furdox <65986892+Furdox@users.noreply.github.com>
+Date:   Sat Feb 19 19:39:30 2022 -0500
+
+    Initial commit
