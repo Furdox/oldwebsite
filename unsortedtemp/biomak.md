@@ -13,6 +13,7 @@ I have the ULTIMATE FLOOF kangooroo shirt DRIP!
 
 [Furdox](http://furdox.tk)
 Born [17 years ago]
+Canadian French :flag_qc:
 Likes Games and Computer stuff
 ADHD + Autism
 may be silly :ralsei_spin_roomba:
