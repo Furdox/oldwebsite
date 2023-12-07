@@ -24,6 +24,10 @@ I like Ralsei, Vibri, Tails, Niko, Yoshi and more.
 MKDS ENJOYER :gigachad:
 
 # Old Discord Bio
+> ping me all you want <a:ralsei_spin_roomba:1069221769141039145>
+> wierd canadian french boi
+> Super Animal Royale Player and old 6-digit osu!supporter (5 months) 
+> Website: furdox.tk
 
 # PH OS Stuff
 
