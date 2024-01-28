@@ -1,3 +1,5 @@
+# TAKEN DOWN, everything here is outdated mfs
+
 # Hewwo! ^w^
 ## Welcome to the source of Furdox's Website!
 **The website is powered by GitHub Pages, meaning this repo directly reflects the contents of [the website](http://furdox.github.io/website)**.
